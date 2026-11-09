@@ -247,7 +247,7 @@ So that each chapter works on its own. You can copy a single folder anywhere, op
 <details>
 <summary><b>Can I use this code in my course or project?</b></summary>
 
-Yes. The code is released under the [MIT licence](LICENSE). The book text, the cover and the figures remain the property of the author. Please see the licence note.
+Yes. The code is released under the [MIT licence](LICENSE). The book text, the cover and the figures remain the property of the author. Please see [`NOTICE.md`](NOTICE.md).
 </details>
 
 More help is in [`docs/TROUBLESHOOTING.md`](docs/TROUBLESHOOTING.md).
@@ -263,7 +263,7 @@ If this code helps your teaching or research, please cite the book. The reposito
 ## Licence
 
 - **Code** (the `Code` folder): [MIT](LICENSE).
-- **Book text, cover and figures** (the `Figures` and `assets` folders): © 2026 Nuruzzaman Faruqui. All rights reserved.
+- **Book text, cover and figures** (the `Figures` and `assets` folders): © 2026 Nuruzzaman Faruqui. All rights reserved. See [`NOTICE.md`](NOTICE.md).
 - **Data files** keep the licences of their original sources. See [`Code/DATA_SOURCES.md`](Code/DATA_SOURCES.md).
 
 ---
