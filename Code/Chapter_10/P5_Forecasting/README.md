@@ -30,7 +30,7 @@ Training stops at epoch 91 and the best weights come from epoch 61. Mean absolut
 
 ## Figures made from these results
 
-![Forecast against actual temperature](../../Figures/Fig_10_Weather_Forecast.png)
+![Forecast against actual temperature](../../../Figures/Fig_10_Weather_Forecast.png)
 
 ---
-[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)
+[Back to the main page](../../../README.md) · [Chapter list](../../../README.md#chapter-guide)

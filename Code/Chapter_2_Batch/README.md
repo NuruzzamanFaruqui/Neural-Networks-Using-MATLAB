@@ -25,4 +25,4 @@ Set the MATLAB working directory to this folder, then run the training script fi
 With `rng default`, the outputs are `0.0102  0.0083  0.9932  0.9917` against the correct `0 0 1 1`.
 
 ---
-[Back to the main page](../README.md) · [Chapter list](../README.md#chapter-guide)
+[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)

@@ -32,9 +32,9 @@ The K-means cost for K = 1 to 8 is 2301.0, 1649.4, 1270.7, 1168.8, 1110.0, 1036.
 
 ## Figures made from these results
 
-![Elbow plot and silhouette score](../../Figures/Fig_10_Wine_K.png)
+![Elbow plot and silhouette score](../../../Figures/Fig_10_Wine_K.png)
 
-![The wines squeezed to two numbers](../../Figures/Fig_10_Wine_Map.png)
+![The wines squeezed to two numbers](../../../Figures/Fig_10_Wine_Map.png)
 
 ---
-[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)
+[Back to the main page](../../../README.md) · [Chapter list](../../../README.md#chapter-guide)

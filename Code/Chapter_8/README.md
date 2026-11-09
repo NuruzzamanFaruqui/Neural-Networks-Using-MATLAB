@@ -32,9 +32,9 @@ The trained mouse walks the path 21, 22, 17, 18, 13, 8, 3, 4, 5. The first succe
 
 ## Figures made from these results
 
-![The learned policy](../Figures/Fig_8_02.png)
+![The learned policy](../../Figures/Fig_8_02.png)
 
-![Average reward per episode](../Figures/Fig_8_03.png)
+![Average reward per episode](../../Figures/Fig_8_03.png)
 
 ---
-[Back to the main page](../README.md) · [Chapter list](../README.md#chapter-guide)
+[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)

@@ -35,7 +35,7 @@ Then:
 
 ## Figures made from these results
 
-![Feature maps of a trained CNN for a handwritten 9](../Figures/Fig_6_03.png)
+![Feature maps of a trained CNN for a handwritten 9](../../Figures/Fig_6_03.png)
 
 ---
-[Back to the main page](../README.md) · [Chapter list](../README.md#chapter-guide)
+[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)

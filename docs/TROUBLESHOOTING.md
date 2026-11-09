@@ -33,4 +33,4 @@ The CNN takes about 30 seconds and the denoising autoencoder about 17 seconds in
 
 ## Still stuck?
 
-Open an [issue](../../issues/new/choose) and tell us the chapter, the script, your MATLAB version and the full error message.
+Open an [issue](https://github.com/NuruzzamanFaruqui/Neural-Networks-Using-MATLAB/issues/new/choose) and tell us the chapter, the script, your MATLAB version and the full error message.

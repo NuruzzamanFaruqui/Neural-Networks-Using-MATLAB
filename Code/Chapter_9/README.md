@@ -34,11 +34,11 @@ Q-learning success rate for training budgets of 10, 20, 40, 80, 160 and 300 epis
 
 ## Figures made from these results
 
-![Iris confusion matrix](../Figures/Fig_9_Iris_Confusion.png)
+![Iris confusion matrix](../../Figures/Fig_9_Iris_Confusion.png)
 
-![Predicted against actual progression](../Figures/Fig_9_Regression.png)
+![Predicted against actual progression](../../Figures/Fig_9_Regression.png)
 
-![Q-learning success rate](../Figures/Fig_9_RL.png)
+![Q-learning success rate](../../Figures/Fig_9_RL.png)
 
 ---
-[Back to the main page](../README.md) · [Chapter list](../README.md#chapter-guide)
+[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)

@@ -31,11 +31,11 @@ Training stops at epoch 91 and the best weights come from epoch 71. Accuracy is 
 
 ## Figures made from these results
 
-![Training and validation loss](../../Figures/Fig_10_Loss.png)
+![Training and validation loss](../../../Figures/Fig_10_Loss.png)
 
-![Test confusion matrix](../../Figures/Fig_10_Confusion.png)
+![Test confusion matrix](../../../Figures/Fig_10_Confusion.png)
 
-![ROC curve](../../Figures/Fig_10_ROC.png)
+![ROC curve](../../../Figures/Fig_10_ROC.png)
 
 ---
-[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)
+[Back to the main page](../../../README.md) · [Chapter list](../../../README.md#chapter-guide)

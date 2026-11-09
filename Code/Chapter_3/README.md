@@ -48,9 +48,9 @@ The book also repeats both comparisons over 20 random starting points. Momentum 
 
 ## Figures made from these results
 
-![Effect of momentum on the training error](../Figures/Fig_3_Momentum.png)
+![Effect of momentum on the training error](../../Figures/Fig_3_Momentum.png)
 
-![Cross-entropy against squared error](../Figures/Fig_3_29.png)
+![Cross-entropy against squared error](../../Figures/Fig_3_29.png)
 
 ---
-[Back to the main page](../README.md) · [Chapter list](../README.md#chapter-guide)
+[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)

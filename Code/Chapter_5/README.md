@@ -44,9 +44,9 @@ The dropout experiment is random. Over five runs the plain network scores 99.7% 
 
 ## Figures made from these results
 
-![ReLU against sigmoid training error](../Figures/Fig_5_Compare.png)
+![ReLU against sigmoid training error](../../Figures/Fig_5_Compare.png)
 
-![Average gradient size by layer](../Figures/Fig_5_Gradient.png)
+![Average gradient size by layer](../../Figures/Fig_5_Gradient.png)
 
 ---
-[Back to the main page](../README.md) · [Chapter list](../README.md#chapter-guide)
+[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)

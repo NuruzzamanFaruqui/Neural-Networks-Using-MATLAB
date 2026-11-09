@@ -30,7 +30,7 @@ Training stops at epoch 71 and the best weights come from epoch 41. Mean absolut
 
 ## Figures made from these results
 
-![Predicted against actual mpg, and test error of the three models](../../Figures/Fig_10_Cars.png)
+![Predicted against actual mpg, and test error of the three models](../../../Figures/Fig_10_Cars.png)
 
 ---
-[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)
+[Back to the main page](../../../README.md) · [Chapter list](../../../README.md#chapter-guide)

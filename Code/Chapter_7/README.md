@@ -33,15 +33,15 @@ K-means finds the centroids (1.95, 1.97), (7.01, 8.10) and (8.88, 2.03), with 50
 
 ## Figures made from these results
 
-![The 150 unlabelled points](../Figures/Fig_7_01.png)
+![The 150 unlabelled points](../../Figures/Fig_7_01.png)
 
-![Three clusters found by K-means](../Figures/Fig_7_02.png)
+![Three clusters found by K-means](../../Figures/Fig_7_02.png)
 
-![Autoencoder reconstructions](../Figures/Fig_7_04.png)
+![Autoencoder reconstructions](../../Figures/Fig_7_04.png)
 
-![Denoising autoencoder results](../Figures/Fig_7_05.png)
+![Denoising autoencoder results](../../Figures/Fig_7_05.png)
 
-![What twelve hidden nodes learned](../Figures/Fig_7_06.png)
+![What twelve hidden nodes learned](../../Figures/Fig_7_06.png)
 
 ---
-[Back to the main page](../README.md) · [Chapter list](../README.md#chapter-guide)
+[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)

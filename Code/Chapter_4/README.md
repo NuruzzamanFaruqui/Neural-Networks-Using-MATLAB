@@ -31,7 +31,7 @@ The six sample flowers in `Testing_Iris` are all classified correctly (accuracy 
 
 ## Figures made from these results
 
-![Iris learning curve](../Figures/Fig_4_Learning_Curve.png)
+![Iris learning curve](../../Figures/Fig_4_Learning_Curve.png)
 
 ---
-[Back to the main page](../README.md) · [Chapter list](../README.md#chapter-guide)
+[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)

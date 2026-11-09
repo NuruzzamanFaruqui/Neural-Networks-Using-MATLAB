@@ -23,4 +23,4 @@ Open a project folder, set it as the MATLAB working directory, then run its `Eva
 | `P7_Warehouse` | A warehouse robot trained with Q-learning. |
 
 ---
-[Back to the main page](../README.md) · [Chapter list](../README.md#chapter-guide)
+[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)

@@ -32,4 +32,4 @@ The correct outputs are `0 0 1 1`. After training with `rng default`, the networ
 | 4 | 0.9924 | 1 |
 
 ---
-[Back to the main page](../README.md) · [Chapter list](../README.md#chapter-guide)
+[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)

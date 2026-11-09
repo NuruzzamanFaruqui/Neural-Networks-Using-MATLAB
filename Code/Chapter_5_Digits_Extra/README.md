@@ -25,4 +25,4 @@ Set the MATLAB working directory to this folder, then run the training script fi
 | `ReLU.m, Sigmoid.m, Softmax.m` | Activation functions. |
 
 ---
-[Back to the main page](../README.md) · [Chapter list](../README.md#chapter-guide)
+[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)

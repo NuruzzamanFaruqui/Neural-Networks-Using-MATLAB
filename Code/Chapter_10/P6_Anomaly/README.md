@@ -37,7 +37,7 @@ The mean test error is 0.261 for benign and 3.833 for malignant tumours.
 
 ## Figures made from these results
 
-![Reconstruction errors on the test set](../../Figures/Fig_10_Anomaly.png)
+![Reconstruction errors on the test set](../../../Figures/Fig_10_Anomaly.png)
 
 ---
-[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)
+[Back to the main page](../../../README.md) · [Chapter list](../../../README.md#chapter-guide)

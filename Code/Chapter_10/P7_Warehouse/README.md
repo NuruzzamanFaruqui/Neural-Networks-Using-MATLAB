@@ -29,9 +29,9 @@ Over 50 random seeds, the share of runs that deliver to the station after a trai
 
 ## Figures made from these results
 
-![The route the trained robot chooses](../../Figures/Fig_10_Warehouse_Map.png)
+![The route the trained robot chooses](../../../Figures/Fig_10_Warehouse_Map.png)
 
-![Delivery rate against training budget](../../Figures/Fig_10_Warehouse_Learning.png)
+![Delivery rate against training budget](../../../Figures/Fig_10_Warehouse_Learning.png)
 
 ---
-[Back to the main page](../../README.md) · [Chapter list](../../README.md#chapter-guide)
+[Back to the main page](../../../README.md) · [Chapter list](../../../README.md#chapter-guide)
