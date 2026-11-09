@@ -13,7 +13,7 @@
 ![Scripts](https://img.shields.io/badge/MATLAB%20files-139-blue)
 ![Projects](https://img.shields.io/badge/Real--world%20projects-7-purple)
 [![License: MIT](https://img.shields.io/badge/Code%20licence-MIT-lightgrey)](LICENSE)
-![Book](https://img.shields.io/badge/Book-coming%20soon-ff9933)
+[![Book](https://img.shields.io/badge/Book-Available%20on%20Amazon-ff9933)](https://www.amazon.com/dp/B0HQZ48CRV)
 
 [Quick start](#quick-start) · [Chapter guide](#chapter-guide) · [Results gallery](#results-gallery) · [Seven projects](#seven-real-world-projects) · [FAQ](#frequently-asked-questions)
 
@@ -44,7 +44,7 @@ The book assumes you know nothing. Each idea starts with an everyday picture, th
 - Test a model honestly with confusion matrices, validation sets and early stopping
 - Finish with **seven real projects**: tumours, cars, wine, films, weather, anomalies and a robot
 
-*The book is not published yet. A link will be added here on the day it is released.*
+**[Get the paperback on Amazon](https://www.amazon.com/dp/B0HQZ48CRV)**. The Kindle edition is coming soon.
 
 </td>
 </tr>
