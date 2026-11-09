@@ -1,0 +1,11 @@
+# MATLAB
+*.asv
+*.autosave
+*.mat
+slprj/
+# MNIST is downloaded by Code/setup_mnist.m
+Code/Chapter_6/MNIST/
+Code/Chapter_7/MNIST/
+# OS
+.DS_Store
+Thumbs.db

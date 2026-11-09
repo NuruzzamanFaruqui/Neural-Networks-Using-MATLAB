@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the book it accompanies."
+title: "Neural Networks Using MATLAB: Deep Learning from Scratch for Beginners, with Every Line of Code Explained"
+type: software
+authors:
+  - family-names: Faruqui
+    given-names: Nuruzzaman
+repository-code: "https://github.com/NuruzzamanFaruqui/Neural-Networks-Using-MATLAB"
+license: MIT
+keywords:
+  - MATLAB
+  - neural networks
+  - deep learning
+  - backpropagation
+  - convolutional neural network
+  - autoencoder
+  - reinforcement learning

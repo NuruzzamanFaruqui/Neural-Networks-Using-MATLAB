@@ -1,0 +1,31 @@
+name: Code question or bug
+description: A script does not run, or the output does not match the book
+title: "[Chapter ?] "
+labels: ["question"]
+body:
+  - type: input
+    id: chapter
+    attributes:
+      label: Chapter and script
+      placeholder: "Chapter 4, Training_Iris.m"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: MATLAB version
+      placeholder: "R2026b, or MATLAB Online"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Paste the full error message, or the numbers you got and the numbers in the book.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What did you type, in order?
+      placeholder: ">> Training_Iris"
